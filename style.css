@@ -1,0 +1,29 @@
+.haider{
+    background-image: url(image\ 1.webp);
+    background-size: cover;
+    height: 700px;  
+}
+.ou{
+    margin-left: 60px;
+
+}
+.fav{
+    font-size: 40px;
+    color: white;
+}
+.imt{
+    margin-top: 150px;
+    float: right;
+    
+    
+}
+.par{
+    font-size: 40px;
+    color: aliceblue;
+      
+    
+}
+#oumar{
+    float: left;
+    margin-top: 100px;
+}
